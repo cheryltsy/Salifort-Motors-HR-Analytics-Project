@@ -50,3 +50,8 @@ import pickle
 
 Step 2: Data Exploration and Data Cleaning
 
+# Load dataset into a dataframe
+df = pd.read_csv("Salifort_HR_dataset.csv")
+
+# Display first few rows of the dataframe
+df.head()
