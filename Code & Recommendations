@@ -1,1 +1,5 @@
-Business Scenario and Problem
+# Business Scenario and Problem
+
+As an HR Analytics consultant, you've been tasked with addressing the critical issue of employee attrition at Salifort Motors, a fictional company. Your mission is to identify the key factors driving employee turnover and to develop predictive models that can forecast which employees are most likely to leave the company.
+
+To achieve this, you will analyze a comprehensive HR dataset provided by the company, utilizing Python and advanced Machine Learning techniques. This project aims to not only predict employee attrition but also to offer actionable insights that can help Salifort Motors enhance their employee retention strategies.
